@@ -2,12 +2,10 @@
     "id": 1296269,
     "name": "Hello-World", 
     "full_name": "octocat/Hello-World",
-    "owner": "$user", 
-    "parent?":"$repo", 
     "private": false, 
     "description": "This your first repo!", 
     "fork": false, 
-    "language?": "JavaScript",
+    "language": "JavaScript",
     "stargazers_count": 80, 
     "size": 108, 
     "default_branch": "master", 
@@ -16,7 +14,7 @@
     "created_at": "2011-01-26T19:01:12Z",
     "updated_at": "2011-01-26T19:14:43Z",
     "subscribers_count?": 42, 
-    "license?": { 
+    "license": { 
       "key": "mit",
       "name": "MIT License",
       "spdx_id": "MIT",
