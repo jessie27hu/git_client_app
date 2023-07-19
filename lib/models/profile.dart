@@ -15,7 +15,7 @@ class Profile {
     this.theme,
     this.cache,
     this.lastLogin,
-    this.locale,
+    this.locale = 'zh_CN',
   });
 
   factory Profile.fromJson(Map<String, Object?> json) => Profile(
